@@ -1,0 +1,1669 @@
+{
+  "schema": "robolab.gallery.v1",
+  "videos": 150,
+  "tasks": 10,
+  "trials_per_task": 5,
+  "files": [
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlocksInBinTask__000.jpg",
+      "bytes": 32326,
+      "sha256": "ee499127ee96b67d0cef8813dcf45278b258d27c0d0cb115cb5d7bab4be20a29"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlocksInBinTask__001.jpg",
+      "bytes": 32766,
+      "sha256": "06ba3acaff65d363f010fc363751599415e7f23f8adb3c289e0207c2c0df7f68"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlocksInBinTask__002.jpg",
+      "bytes": 33035,
+      "sha256": "4f98a6e34b835058bc48980bbcec6fe47103908be05f341dbc028027ac620500"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlocksInBinTask__003.jpg",
+      "bytes": 33793,
+      "sha256": "ab9b9c2cb0d8b8273a6f39512ffd135c865598818128fb9a9a6297382f4845a6"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlocksInBinTask__004.jpg",
+      "bytes": 32540,
+      "sha256": "12538346e7a835049fda8021fc2112f5b9d336d5f5c383ade0c88f6f5d95cf31"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ClutterPumpkinTask__000.jpg",
+      "bytes": 31530,
+      "sha256": "67cc5971f603d20a88a10667fd78ba7e845871ad99e6e7acda033f8980aa4177"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ClutterPumpkinTask__001.jpg",
+      "bytes": 34473,
+      "sha256": "02124d4f715e1500ade51ed4c7abb1d6f213a963460b1c3c1445bd22d2182fd1"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ClutterPumpkinTask__002.jpg",
+      "bytes": 33454,
+      "sha256": "43faa1a0a090f83a15b80ce63bc4fae36068899d41596615b4826d83353fff91"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ClutterPumpkinTask__003.jpg",
+      "bytes": 33469,
+      "sha256": "8682aeb543c93a4fae5f55d9927a10dfff5bfe78a5d29ad5d4576f000a19b0dc"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ClutterPumpkinTask__004.jpg",
+      "bytes": 33993,
+      "sha256": "7b29da962cd5a64c635f0b84d9d7195e9679cfb8dbc7865b71062fddf1fffd52"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ButterAboveRaisinTask__000.jpg",
+      "bytes": 31218,
+      "sha256": "30a0d18dd337051f6b46f414f1df7339c8556967065fd321446979b1bd58c008"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ButterAboveRaisinTask__001.jpg",
+      "bytes": 30945,
+      "sha256": "ef880708b7cda1adddf99d4618f55a60849f81f6bc59306706d709c59db04421"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ButterAboveRaisinTask__002.jpg",
+      "bytes": 30828,
+      "sha256": "90b58126db79e7b514df0260be7d9fe46a5f9b1052324f43c68f007965ede824"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ButterAboveRaisinTask__003.jpg",
+      "bytes": 30930,
+      "sha256": "b598c1faff08c6fe33cafae023d7da78d7326e6d00c1a1724fa6ec5b4ae23347"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ButterAboveRaisinTask__004.jpg",
+      "bytes": 30866,
+      "sha256": "d998bd0fe3faecdb7909caf9dd0b3359093d2d5e75e27e9334b7048fa390cc66"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__000.jpg",
+      "bytes": 32559,
+      "sha256": "2d523f389359b97ff7da84f1fa587a360ab533068e7515d5e3b9b6ce1d66ca5a"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__001.jpg",
+      "bytes": 31606,
+      "sha256": "33f6f181182ba1b5871b119b17b04ce1544a8cb10bfefffc265fe809bf2dd39c"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__002.jpg",
+      "bytes": 32063,
+      "sha256": "c4480d6a86412e7349dce61ba8266a6c800b376d93674d63ee2621dad645fc5d"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__003.jpg",
+      "bytes": 34809,
+      "sha256": "deb7df628916948b63bad436f7beafb8328cb458819f58086862e6230a88d712"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__004.jpg",
+      "bytes": 32938,
+      "sha256": "dd84c4f309e6481e3e49fa60eb6a7857e97d26310b07f4bae00116381cb065ad"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ReorientRedMugTask__000.jpg",
+      "bytes": 32221,
+      "sha256": "20283009b54bfe9877d0d262fe03914fcc1cbd9864df99878fe8b0ab0430d64f"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ReorientRedMugTask__001.jpg",
+      "bytes": 31939,
+      "sha256": "5978efe936e9c50930878b6d5e68e29d0725772b4ade1244206a2ef7121dd9f8"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ReorientRedMugTask__002.jpg",
+      "bytes": 31390,
+      "sha256": "268304cc97df6bcccd9a9310513fa73d374cb511d269b24737ee1a04d32d5859"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ReorientRedMugTask__003.jpg",
+      "bytes": 31253,
+      "sha256": "27038b09a8d2c569fcafa86d51c043ee140fedaec4835cb9d9fa4ccf8734a5b7"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ReorientRedMugTask__004.jpg",
+      "bytes": 31156,
+      "sha256": "38e1c04b25b1f04ed6233457120df709b42d75c022b11e47f27b76151b680d8c"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__000.jpg",
+      "bytes": 33034,
+      "sha256": "dfae5f1484bd75ce1768c0c715726e7e285e00d353d313bbe9a49be1f7343cb5"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__001.jpg",
+      "bytes": 33010,
+      "sha256": "f1df9f3452bf30e79890904f2b75b694a194167551df6d48d27cb6a8d49041c1"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__002.jpg",
+      "bytes": 33505,
+      "sha256": "113862a86453c95bf6428d2f003ff487328e71d1b63cd6b77f93b120e996baa0"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__003.jpg",
+      "bytes": 33087,
+      "sha256": "68e79ab1d62f7bf2012e08efe2ea8810ca0ba22ac9e66892fa8a23bdd84e5044"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__004.jpg",
+      "bytes": 32378,
+      "sha256": "4423f53bb0ff1872877d0261205dd07de773c4a0bb41596e8f53258af844f1fb"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__SauceBottlesCrateTask__000.jpg",
+      "bytes": 32165,
+      "sha256": "5876b38770f5d9b1711930b7f0dd727dc2344bba52c2a8dde14057b8006ba219"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__SauceBottlesCrateTask__001.jpg",
+      "bytes": 32259,
+      "sha256": "61d16bc97583dac3e7d7211bae2af15ab27af238fa2c24ef13d3a727c7dad546"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__SauceBottlesCrateTask__002.jpg",
+      "bytes": 33846,
+      "sha256": "31f29a4f2df8953d7e664254afe140b66c9022b0e49b0dd2bf7947d03869dca2"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__SauceBottlesCrateTask__003.jpg",
+      "bytes": 32644,
+      "sha256": "e384206ed3694027e08c4ca14ceaa6ef107c45599eccf0b63627eb1331c23df7"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__SauceBottlesCrateTask__004.jpg",
+      "bytes": 33606,
+      "sha256": "c7f6d1723fa064ea216e8a8e11bb79752d7d19144b67b73133fb3d5a5e20fcf0"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__CannedFoodInBinTask__000.jpg",
+      "bytes": 31399,
+      "sha256": "eada418da30bd35e8d015aed585f20dc2757df876bade383b5b078179624a16f"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__CannedFoodInBinTask__001.jpg",
+      "bytes": 31049,
+      "sha256": "658e5a1b3c984376a5e3d9e7c64236375d07378f1f843dad2421ce92a7a22b66"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__CannedFoodInBinTask__002.jpg",
+      "bytes": 32371,
+      "sha256": "b7e643ed0410de208d721d6035a1f1cab7d34b05135ad8f9a0a81d9008553758"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__CannedFoodInBinTask__003.jpg",
+      "bytes": 32307,
+      "sha256": "ce51589a7f153cf11f9d20dbdca46d7e9050371690382f2e1639664df11a2948"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__CannedFoodInBinTask__004.jpg",
+      "bytes": 30886,
+      "sha256": "c65714525973cb9a03ca9dbf4f58333739cf2c0fc4258bd8a151285c39f5b48c"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__YogurtInBowlTask__000.jpg",
+      "bytes": 36767,
+      "sha256": "213c83890db993de010ff1a642c72d6d62a446921bacf9a58c1fab6df48eea34"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__YogurtInBowlTask__001.jpg",
+      "bytes": 35320,
+      "sha256": "d7d9a74e2fe74111cfd39aa7f98087d5cf4ddacd78c0dcb2f0af30b86c123a08"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__YogurtInBowlTask__002.jpg",
+      "bytes": 34623,
+      "sha256": "2c49b8cc4acbc690a67c0e8ecd8feb62f5949c65f383c1d8e6c51c9879fb1dfe"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__YogurtInBowlTask__003.jpg",
+      "bytes": 35528,
+      "sha256": "cf79bf03a10281adcde5fc86e95445739cee93926055e81bdc8446eec34b7c17"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__YogurtInBowlTask__004.jpg",
+      "bytes": 35232,
+      "sha256": "ca5c576b864c8f1ebb26397815ea7c4808fca230d5693815cf76166c9cd66172"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__RubiksCubeTask__000.jpg",
+      "bytes": 32149,
+      "sha256": "1c37e2c4a9211f34724c3e5a60a8999a8d8ffd53dac242afd93f4c07cd58d6ef"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__RubiksCubeTask__001.jpg",
+      "bytes": 33623,
+      "sha256": "5b56d63b5cf22dee9abd88b917042dfc23298448066051605d59458835b8ff20"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__RubiksCubeTask__002.jpg",
+      "bytes": 32562,
+      "sha256": "3b88dbd23537f8e6f0832a248fef91e3957d0ba4533890f54cfe42df6d372696"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__RubiksCubeTask__003.jpg",
+      "bytes": 34413,
+      "sha256": "3ca17b045344d3d6e12f19cf3ab76eecf399d8076383919bda898b8cc879fd8d"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__RubiksCubeTask__004.jpg",
+      "bytes": 32581,
+      "sha256": "3f4c5db0522c35fc528428af432c3ea6d971bda22e7d1cc0d810daca25b2df72"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlocksInBinTask__000.jpg",
+      "bytes": 34164,
+      "sha256": "fd337a5f6cb374a5a14f67f06974e6f9549e14791715293d9491c90019d04661"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlocksInBinTask__001.jpg",
+      "bytes": 34150,
+      "sha256": "56fec1e1a24874433f46fbd983922672718200e2568c7b54fc8a34e54d5d2c58"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlocksInBinTask__002.jpg",
+      "bytes": 34119,
+      "sha256": "8357aaba440d9aff1ae319ae87beeb3e6fc7784a09cff032720e75e48ff0e04b"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlocksInBinTask__003.jpg",
+      "bytes": 34921,
+      "sha256": "05777defb5494443cc2a99b0315d73448db9bd059bc3fafd75cd6d5ac1c3ff7b"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlocksInBinTask__004.jpg",
+      "bytes": 35011,
+      "sha256": "7927bb0365250db7c3ba83bce0991458fb427b0954bd33c1db66dc7dd7ad6fc2"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ClutterPumpkinTask__000.jpg",
+      "bytes": 35209,
+      "sha256": "166ac6feecd48248423c51c1ee7bf3e89028fdfd0dd7e811533bbdfa428b15a5"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ClutterPumpkinTask__001.jpg",
+      "bytes": 34874,
+      "sha256": "2a0700543613be2c693eabb8426cd6f195e851f0f3f3930cffcfa85cfc81bc77"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ClutterPumpkinTask__002.jpg",
+      "bytes": 34735,
+      "sha256": "690796915da11de92030ff26e776d473d993dd0393bc35fc43d667527be2638e"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ClutterPumpkinTask__003.jpg",
+      "bytes": 34773,
+      "sha256": "6097902725e83fb2b8b80517966f0326618e21fe55d75df46bb827163994ee55"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ClutterPumpkinTask__004.jpg",
+      "bytes": 33030,
+      "sha256": "25438c7e9a48dd602a1a8a6082522299e18d063ceb407745f7702b761985154f"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ButterAboveRaisinTask__000.jpg",
+      "bytes": 34472,
+      "sha256": "df7c5c2c5f3affddae3c729770a4ee0728dca86140cf03e3a21af2bcce433f25"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ButterAboveRaisinTask__001.jpg",
+      "bytes": 34965,
+      "sha256": "7467a9b2f2212d5994b55d7b9e17231e535fb1cc81d350e4e710461e759127c3"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ButterAboveRaisinTask__002.jpg",
+      "bytes": 34090,
+      "sha256": "8f99aecbe3ca885e6fabfdbbb95a01705167e6394ee67ab207b81e48eb341229"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ButterAboveRaisinTask__003.jpg",
+      "bytes": 34336,
+      "sha256": "35ba0502895c572656fa47cb0569de90d37f7fbf66a823cc570511c5fcfbf8fd"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ButterAboveRaisinTask__004.jpg",
+      "bytes": 32338,
+      "sha256": "dd2798febc842af98fb0c17703505001efaf8040d2951f8aad71714c21c96cd7"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlockStackingSpecifiedOrderTask__000.jpg",
+      "bytes": 34810,
+      "sha256": "9e6199071c8833031e0d16c42364cc06ab15fc56e6275fa566dd92a12bbad3b7"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlockStackingSpecifiedOrderTask__001.jpg",
+      "bytes": 33218,
+      "sha256": "f9d45f6c2a14243ffc6e3419657bf393f41e3451d3914941a02ffb60d980ef40"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlockStackingSpecifiedOrderTask__002.jpg",
+      "bytes": 33419,
+      "sha256": "ae3d41ff00950967d83a02afd21042c00c3916ad35b922e5bc0aa9343ea94017"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlockStackingSpecifiedOrderTask__003.jpg",
+      "bytes": 32876,
+      "sha256": "47635c2f3a95d758fce8c3cf8b96f9a5e719c1394a5164d90ca34ec88f9f7490"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlockStackingSpecifiedOrderTask__004.jpg",
+      "bytes": 32962,
+      "sha256": "f4981217bc3dd9dbc759280916862f7d14b02e5a5a437d2fad346457169bfb30"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ReorientRedMugTask__000.jpg",
+      "bytes": 33756,
+      "sha256": "f91b1077317e72eed8ca8359167a0bea5180abb781f45523036f58cfea8fa9d0"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ReorientRedMugTask__001.jpg",
+      "bytes": 33000,
+      "sha256": "f91c2b0257f731bb5cb163f58d75bffa16354b296936b05f6c142f842e4571fb"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ReorientRedMugTask__002.jpg",
+      "bytes": 33368,
+      "sha256": "96de3d06fb63782331288258670c5eb96eba3f573fc6d1ce64318c9d4a156c24"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ReorientRedMugTask__003.jpg",
+      "bytes": 34791,
+      "sha256": "ba9e430cce3fc3271ed406b59f48f15e715dc2f02ebc8664ca1604bc6534be67"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ReorientRedMugTask__004.jpg",
+      "bytes": 33944,
+      "sha256": "cbc3dfd6ef8ce0e2d789d1c4e9a4522b2b808ea1acf8b582dc1552dcaaa528e8"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__000.jpg",
+      "bytes": 34472,
+      "sha256": "cc3f27badf3218b7218c5664156c64fd80e85df536d3e4ce83c829a87a1061c6"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__001.jpg",
+      "bytes": 34571,
+      "sha256": "d1b04a700b3c9322fa31f14b867b5921f37f6f7df95f1da4623bbd2cb53335b4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__002.jpg",
+      "bytes": 35610,
+      "sha256": "270f3971d398572fe8be38c737ceec1b3f0e0dd2f7115a93fd832c15a8496749"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__003.jpg",
+      "bytes": 35130,
+      "sha256": "7dd4a5c8c1349d3347f1bef0630f198ca025b4588fdde683bdca82cd350a7acd"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__004.jpg",
+      "bytes": 34970,
+      "sha256": "75caddf588d27ca32d30da3d5d883df00dee1e40b62d01856a9b9e1c2a2331cb"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__SauceBottlesCrateTask__000.jpg",
+      "bytes": 32733,
+      "sha256": "f680fb1dad3bdb0a4132256516203cf80a4d7ffd08dd86411a3be2aeb356b0d7"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__SauceBottlesCrateTask__001.jpg",
+      "bytes": 33719,
+      "sha256": "6ab3a517514f943e71812923f644f180d08498ec5aa55576f8d57c80cc3b3e24"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__SauceBottlesCrateTask__002.jpg",
+      "bytes": 33761,
+      "sha256": "b002bc8cd3a4c247075ea5c1ace6a3c4aab38f65d1b38ea3bf57ab7368f66638"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__SauceBottlesCrateTask__003.jpg",
+      "bytes": 35365,
+      "sha256": "2e56730bf6c45bdd9c9eb7e41b4c0edc94202372d7b548f1001b78fff5c1e535"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__SauceBottlesCrateTask__004.jpg",
+      "bytes": 33911,
+      "sha256": "ededccd0f8b1c8ddc9ad5200c4e13048f27c648b45aeff9bd00ae3c290952619"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__CannedFoodInBinTask__000.jpg",
+      "bytes": 31637,
+      "sha256": "0263da3fb47aa9e6b20475be28ae087ccd4086d194382458733a57c16266043d"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__CannedFoodInBinTask__001.jpg",
+      "bytes": 33933,
+      "sha256": "da95e1cd25e5e752a53686b60ccddc802d98a7fca10fc174d0ee22d01b3c0f17"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__CannedFoodInBinTask__002.jpg",
+      "bytes": 34241,
+      "sha256": "bb35a69a4f04e8f15d4941d073d95d24312a845d670ef87b3e0bc908e63f4a47"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__CannedFoodInBinTask__003.jpg",
+      "bytes": 33003,
+      "sha256": "f34eca8cc0497c1970d3c62f5fd1c07a5fc62d73fd0751cd5e74fd0e60ae4c0b"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__CannedFoodInBinTask__004.jpg",
+      "bytes": 32243,
+      "sha256": "7937493358f2cc6c088f586c4e25129837365aa2b8f51b4d0d606ceef7e4a990"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__YogurtInBowlTask__000.jpg",
+      "bytes": 37659,
+      "sha256": "4390e994c7b293627cadfbb107038a837f11c363835bb550509acd23b4507672"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__YogurtInBowlTask__001.jpg",
+      "bytes": 36555,
+      "sha256": "0ebd2cec169b28872921dbab91abafc71334c9530e43623a9b4858ac6b5b3a10"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__YogurtInBowlTask__002.jpg",
+      "bytes": 37029,
+      "sha256": "75fbc20d5261a298f4e83cb7421909661dbd0ada9aa14f085a79400ae9577a6a"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__YogurtInBowlTask__003.jpg",
+      "bytes": 37206,
+      "sha256": "fe7e442d12d9698aff8162bb919301c9c50239dacca0b2d3c4e5840132a783f4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__YogurtInBowlTask__004.jpg",
+      "bytes": 36711,
+      "sha256": "08c192355741d48ee4dda60bb39d9944838f58ee7769b20808773a0b6645f93c"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__RubiksCubeTask__000.jpg",
+      "bytes": 34900,
+      "sha256": "c6090afbf7f4d0e80450391b1ab69dc720a387a1f297b21cdf9e581e1c5be603"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__RubiksCubeTask__001.jpg",
+      "bytes": 34170,
+      "sha256": "2685d50828666b0953c1ce90fc4b1bbbe598df6362cfafbb0d7fcd40377765f1"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__RubiksCubeTask__002.jpg",
+      "bytes": 35471,
+      "sha256": "f127336f31f5a7e5f5c2a138d41ba4ca9b63eddc7965aa4e79b7907d7f3c4f8f"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__RubiksCubeTask__003.jpg",
+      "bytes": 35664,
+      "sha256": "2f3044c6c399a0c7946ee5ac3d262898b51049b09a79c26dbb01c6898b1680af"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__RubiksCubeTask__004.jpg",
+      "bytes": 34945,
+      "sha256": "f7ff7ca127b355ab408138aa9db9957f965b4f9550f3f5d8ad2a164ba325f576"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlocksInBinTask__000.jpg",
+      "bytes": 29567,
+      "sha256": "9eaf1272021c6bd22f0d50ce46e56465a17700a4255929d106470b0b9c0f5744"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlocksInBinTask__001.jpg",
+      "bytes": 29545,
+      "sha256": "566fa2c1f0ec415ec68160d45fe72ae29922caa10d22f57b2a2b16a2547863f5"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlocksInBinTask__002.jpg",
+      "bytes": 30052,
+      "sha256": "6614fdff54e2e0fc9048c158fdf00e4386f29a88e3e20e5f52542c523830fcc0"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlocksInBinTask__003.jpg",
+      "bytes": 29597,
+      "sha256": "350e9610059c50cfc03c128782c7cd9c4cc4137d737be292ae64209eaf266ece"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlocksInBinTask__004.jpg",
+      "bytes": 29610,
+      "sha256": "e466e5efc4f0e1ba2ea7e158cd33932d54dc40c065c6c5fd5a3a2a7e7ba69405"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ClutterPumpkinTask__000.jpg",
+      "bytes": 28747,
+      "sha256": "b29be04307712b48b315eab572d59fcba4f6dcb2c0e33c03eb3a2fc8d6eef4ac"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ClutterPumpkinTask__001.jpg",
+      "bytes": 28752,
+      "sha256": "74f9f6a5c89fc51ac581f19169aacb10bb9e4ad6933558939d9d8ec44d08f538"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ClutterPumpkinTask__002.jpg",
+      "bytes": 29422,
+      "sha256": "86e37634e6d95a903f275a6cbc7bd8c515241f81e203ab0268df88692b146fea"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ClutterPumpkinTask__003.jpg",
+      "bytes": 29341,
+      "sha256": "b38ee8b1959846154b03fe6929e37eb8dec417db81b579accd74f2ec8a7055a4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ClutterPumpkinTask__004.jpg",
+      "bytes": 29457,
+      "sha256": "6d6d10d31db3162ecfed2b44d499b755bd351b0b911a9586272ef75ced055b8d"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ButterAboveRaisinTask__000.jpg",
+      "bytes": 27773,
+      "sha256": "ae64d6a93c75466db6d2f6ae587c5d1fe6c67a77fc27aa61942fde94f748248a"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ButterAboveRaisinTask__001.jpg",
+      "bytes": 27918,
+      "sha256": "565ea89a97ba27f924355591b8c9741dbeaff0af9c3d073de14b5a41383b5d33"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ButterAboveRaisinTask__002.jpg",
+      "bytes": 28126,
+      "sha256": "35416f3be6481a7ec03692f02c55f93d2559a4da101b59ea23c895e79d7912ee"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ButterAboveRaisinTask__003.jpg",
+      "bytes": 28378,
+      "sha256": "c5c5e028b320e8523ca020f8c1d74def50e4e8b5343cde7b228c552c2d90b2a2"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ButterAboveRaisinTask__004.jpg",
+      "bytes": 28183,
+      "sha256": "63cea1ef8a98b3113802c9e803106e3c071d5350a15734cc1ef97757cb473c4d"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlockStackingSpecifiedOrderTask__000.jpg",
+      "bytes": 27810,
+      "sha256": "446d092d74a2172d58b7ea2fe1a13280ef51af1c566f0dea20f3b9d2bc79aaa8"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlockStackingSpecifiedOrderTask__001.jpg",
+      "bytes": 27839,
+      "sha256": "0e8cab7053d0b0722369d9d9e32f6d3fb5d508e84d703f7e4424145bb9bf4472"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlockStackingSpecifiedOrderTask__002.jpg",
+      "bytes": 28436,
+      "sha256": "33710d028b09ff582d26e67ce6d8cf3b680d3ed158ff934c0af0d2678b67549f"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlockStackingSpecifiedOrderTask__003.jpg",
+      "bytes": 28345,
+      "sha256": "4d072539513ecc56414b0b4d9ad1e2e92ac06729b851f20647d2531af2fd62ad"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlockStackingSpecifiedOrderTask__004.jpg",
+      "bytes": 28290,
+      "sha256": "5c577812f755f1e5b6321e5483441916fd9ecfe991172f32932997b1aac94e59"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ReorientRedMugTask__000.jpg",
+      "bytes": 28012,
+      "sha256": "c689ff502ba2510d17646571e4a649c7e73bc21877098d921874c98ef247df8c"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ReorientRedMugTask__001.jpg",
+      "bytes": 27849,
+      "sha256": "dd0651ac4e83724ea05082286d32fb16c717430dcb70303bf4e44d3c33e54e9c"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ReorientRedMugTask__002.jpg",
+      "bytes": 28631,
+      "sha256": "601bfdd823cc174204a09a6dc1919372da79ab875d0c7d8bc16508f06d2c4458"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ReorientRedMugTask__003.jpg",
+      "bytes": 28683,
+      "sha256": "c814b29cece62c5d16eed5e3263adec5633d52436df926db04c37ef3cb1dd123"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ReorientRedMugTask__004.jpg",
+      "bytes": 27975,
+      "sha256": "c0af3a9957eb664ec0ecba022cdcd777a513ed12cfb37c59333ebd997c97750f"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__000.jpg",
+      "bytes": 27907,
+      "sha256": "7a6c6618538ff1f58c5b5cb0fc402c64a6c8a955c4052c53269501f7cd7c8c1c"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__001.jpg",
+      "bytes": 27943,
+      "sha256": "437553b360eb2a5e218dd92d6b82be4d62a8238dd26d68aedaed1e38b8e8d4d1"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__002.jpg",
+      "bytes": 27939,
+      "sha256": "e9efad44c65f263ef80375d65132ef3d3c4fd3178ce754d88fb1f54432f6becd"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__003.jpg",
+      "bytes": 28352,
+      "sha256": "0e96590d90598334509b30fbe9aaa91c4042ab092db517207251760dc8e80504"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__004.jpg",
+      "bytes": 28212,
+      "sha256": "785e60568337952c6b234d485ba9c1127b2eeef7a542cc3e0446e17af475c65c"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__SauceBottlesCrateTask__000.jpg",
+      "bytes": 27949,
+      "sha256": "5d7a11007fc946115abcb077a7fe0898d846919d59504d2eb038ca0ddb774a85"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__SauceBottlesCrateTask__001.jpg",
+      "bytes": 28031,
+      "sha256": "90348ec20aa72d5e93801a75588712fba39c1c5cd02e49b15efadc64ef5fa0ce"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__SauceBottlesCrateTask__002.jpg",
+      "bytes": 28560,
+      "sha256": "47786ce587050d33a8e300c8bd1ac6e8dad450be437fe8af02fdb19ebf2a6dad"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__SauceBottlesCrateTask__003.jpg",
+      "bytes": 28030,
+      "sha256": "f891f6c76436603aed30530a9bcb32bda4081724e089d63a19e79bebf2ef19da"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__SauceBottlesCrateTask__004.jpg",
+      "bytes": 28654,
+      "sha256": "6083d07772575422ae27eaa7fb109cc938d785948d949c3c890d0913d5277506"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__CannedFoodInBinTask__000.jpg",
+      "bytes": 24092,
+      "sha256": "aac539aafdd85e7217d62b702c8eeaa02b2493a484eace9561bb534d7594ba72"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__CannedFoodInBinTask__001.jpg",
+      "bytes": 23913,
+      "sha256": "44f2bde024a9deb548afd08900c83bbd6817cd324a44eb275069646c86587a9d"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__CannedFoodInBinTask__002.jpg",
+      "bytes": 23973,
+      "sha256": "a2f07120aa4faba4eaa20ab7a0d8643ada0a97b85f8609f15f540daa6da516b5"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__CannedFoodInBinTask__003.jpg",
+      "bytes": 23839,
+      "sha256": "3285ad6afa9d8c8f0e13152862f1051451e02d7133f880cd990de6cdf1dbd5a0"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__CannedFoodInBinTask__004.jpg",
+      "bytes": 23935,
+      "sha256": "b73f4f98a01ba025a019f5b1b68a47d17b55ff96f051c5983f9054f14531b762"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__YogurtInBowlTask__000.jpg",
+      "bytes": 30117,
+      "sha256": "93435ace3e1dc4cfbcd6e39ee753573b308dce536dc175694e836792fd2e8b5e"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__YogurtInBowlTask__001.jpg",
+      "bytes": 30173,
+      "sha256": "bb60ac22f44b296579a9c3e68504a14ddb65bce5548d21b269e2a58a3da0160d"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__YogurtInBowlTask__002.jpg",
+      "bytes": 26476,
+      "sha256": "0057eb17f60c62686f2eeb972758d8cc3b894f5bd83b0f0273569b15f2ca2134"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__YogurtInBowlTask__003.jpg",
+      "bytes": 26641,
+      "sha256": "11462c31511cecfb3438d0e1ca443948eca5fe5552510d0d1f9b229cd0ff9734"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__YogurtInBowlTask__004.jpg",
+      "bytes": 26071,
+      "sha256": "f4c906f7e68aa4f8cf5889f2d34910c35c385837f4cbd5a82edb1a2c05a7b14a"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__RubiksCubeTask__000.jpg",
+      "bytes": 27767,
+      "sha256": "378ebc68a2238bcef09e02f61e06d832433f13a02ebc5d2edcbe6323b15b2241"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__RubiksCubeTask__001.jpg",
+      "bytes": 27990,
+      "sha256": "81b3201ddbc70d81da672339e3e8ca170d33ccd159e9109fef06e431b0b29aaf"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__RubiksCubeTask__002.jpg",
+      "bytes": 27913,
+      "sha256": "ce0bd489779be5e097b601a4532f7b5aeb55db4df6e7c828c57cdc5391c90348"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__RubiksCubeTask__003.jpg",
+      "bytes": 27517,
+      "sha256": "98f7adc737e4d9c67e28064da06e5d498244880073e2ff991d77c74ea5d295c9"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__RubiksCubeTask__004.jpg",
+      "bytes": 28031,
+      "sha256": "2afe7e42a7f6c621451fcb4bbf1a5a9fb9c92fbef1b4ddff0e80456a0935fe65"
+    }
+  ],
+  "successes": {
+    "astra_pi05": 46,
+    "pure_astra": 49,
+    "pi05_only": 18
+  },
+  "source_summary_sha256": "53cf2dd4a34db11c21ec42b9925f7b7a2eef9048ec0fdb6e98424b7041e190c6",
+  "original_media_unchanged": true,
+  "raw_annotations_included": false,
+  "external_files": [
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlocksInBinTask__000.mp4",
+      "bytes": 9748482,
+      "sha256": "c000be5cf4b89f9a38266c2a45cab242a1f3e5263e7d1627e9b50e9076fd5da9",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__BlocksInBinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlocksInBinTask__001.mp4",
+      "bytes": 10285867,
+      "sha256": "a62b08ae8d9c37bbd5c5dda89800214e81a90c0a0cd71f580510abefde962afd",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__BlocksInBinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlocksInBinTask__002.mp4",
+      "bytes": 10295562,
+      "sha256": "207d40e3e345ea5ab17adebd3dbdf7a554cf327490b965c1c092e211116c9ead",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__BlocksInBinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlocksInBinTask__003.mp4",
+      "bytes": 20997212,
+      "sha256": "a9e11ef2919a1701e5ee0d4bd104028bb2e8de9d624a23459bd91414b44b12d9",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__BlocksInBinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlocksInBinTask__004.mp4",
+      "bytes": 11097626,
+      "sha256": "4da69506a7cb81b00f95152c0b50668cb2464c69493f5f6aacdee7147556fa66",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__BlocksInBinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ClutterPumpkinTask__000.mp4",
+      "bytes": 8912876,
+      "sha256": "db2f1658952749203500331637a6c048e51077b2f5012489d323022223f81831",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ClutterPumpkinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ClutterPumpkinTask__001.mp4",
+      "bytes": 12498207,
+      "sha256": "8f7cc19cedc0c5c8ab54481b350fb82f79770c84c61824f010323b79add66b1c",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ClutterPumpkinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ClutterPumpkinTask__002.mp4",
+      "bytes": 9051455,
+      "sha256": "b9df22b82a55f13427666a31686d8371a95160d9b07a4dec6d0ecb0fba14d7ce",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ClutterPumpkinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ClutterPumpkinTask__003.mp4",
+      "bytes": 13345650,
+      "sha256": "48819ef0ab168e0eb6f1397e9111d73001c899f8e6389d52a3b60e77b4727f57",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ClutterPumpkinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ClutterPumpkinTask__004.mp4",
+      "bytes": 9472646,
+      "sha256": "b18d9707170ef18671f7a18783d08ff6f3b192d3364177ef41e459ea33042ff0",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ClutterPumpkinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ButterAboveRaisinTask__000.mp4",
+      "bytes": 2599951,
+      "sha256": "721303f5ba6e03f22a73a4a22a3753d56fb41499d82edd254303a1b0a06df2a1",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ButterAboveRaisinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ButterAboveRaisinTask__001.mp4",
+      "bytes": 3044993,
+      "sha256": "f1e50ddada8ed7d8dc3a912a639eb5f106348825f4b9a43d865e782b1a23c213",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ButterAboveRaisinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ButterAboveRaisinTask__002.mp4",
+      "bytes": 1845740,
+      "sha256": "b9c89eb9debe111b909cbe8357f4a6dd7957eb62bdcb0f3fad99b765a62b63b3",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ButterAboveRaisinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ButterAboveRaisinTask__003.mp4",
+      "bytes": 2518980,
+      "sha256": "ba14ae2d374f3659b3c07ab03872b1ac3e9439cd2b66afb5c7b74d3df712ceac",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ButterAboveRaisinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ButterAboveRaisinTask__004.mp4",
+      "bytes": 1742095,
+      "sha256": "f8a6a5548c79a723015ca8f158388a133ee9e4c5321b00f27a9b271e6fc8983f",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ButterAboveRaisinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__000.mp4",
+      "bytes": 5531116,
+      "sha256": "da7223802f674da585079b4f911456944f6ccf11206db7f4bbb40b36a96e6063",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__001.mp4",
+      "bytes": 6271254,
+      "sha256": "13e1ef5a882b8cb9c230a001c41261776afb9ec42563c0ab8f6b770fa58d3522",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__002.mp4",
+      "bytes": 12463945,
+      "sha256": "dd6d5a80e3052501f72ffa9cca0fc5f9d2871b52e7c61277a75bcbb5dd55bc92",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__003.mp4",
+      "bytes": 11109849,
+      "sha256": "437c52b2453b48033c631a6a40b6a4ad1e5f682874302c6b8fe8ab96a0245292",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__004.mp4",
+      "bytes": 5923999,
+      "sha256": "37072d7d6140f023c6489218744f9eaae1eff6deef2e05071ba6852553c847e4",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__BlockStackingSpecifiedOrderTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ReorientRedMugTask__000.mp4",
+      "bytes": 8320519,
+      "sha256": "b4b4fea782852922b00801aab9d37959cf613d072333155fcce0578c32833463",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ReorientRedMugTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ReorientRedMugTask__001.mp4",
+      "bytes": 6056160,
+      "sha256": "511772f28be4784ba8ff2b193a6a3fb5c3f174c2245d8d069c8d35fb61f98ad5",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ReorientRedMugTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ReorientRedMugTask__002.mp4",
+      "bytes": 3271391,
+      "sha256": "5e404a1f43441f3fc5de3354821cd1083e616b7a42b13d1d8e93d1a839112455",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ReorientRedMugTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ReorientRedMugTask__003.mp4",
+      "bytes": 4064166,
+      "sha256": "c760151667f116576dba75705c2de7a8bb4154251dd0b806d8fca5fffc982f00",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ReorientRedMugTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__ReorientRedMugTask__004.mp4",
+      "bytes": 4207541,
+      "sha256": "287bdfb05b50cc1284c955a3cbf160a9745ab1e3978be8dcf5e883c6c0991861",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__ReorientRedMugTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__000.mp4",
+      "bytes": 2787217,
+      "sha256": "efa273992bfd08bc5664406bf32466ddbcbc812d6645876b418f91d6e768f1d6",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__001.mp4",
+      "bytes": 1526441,
+      "sha256": "efd0ce31dfd45c26b2ea925bc8686980fcefb97a03606cd9132b49da30d0ab19",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__002.mp4",
+      "bytes": 4391343,
+      "sha256": "86c6cf99d6b37cc0e5f3366a4e1001f18cbbcf941a0bd48ca7afa3995bef883e",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__003.mp4",
+      "bytes": 2047135,
+      "sha256": "ab45d2fcf6a6ce6d3b6e8ab1a4223750649cce711d65fa77073e66402f9b590b",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__004.mp4",
+      "bytes": 1854599,
+      "sha256": "2e8b1650cd08874efc97b8a9a7e1f736a20b2d3d677ad018eccbf470f187a1f1",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__LargerObjectRaisinBoxInBinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__SauceBottlesCrateTask__000.mp4",
+      "bytes": 1508956,
+      "sha256": "b13d67b5cb0ec575a0148b7dca46998f5baf29d272edbed2803851002e80d0be",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__SauceBottlesCrateTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__SauceBottlesCrateTask__001.mp4",
+      "bytes": 1662381,
+      "sha256": "bfd58f804298a21d5a56f8557f9478b7fdd1107bbfb3a086536e0f1063d7f933",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__SauceBottlesCrateTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__SauceBottlesCrateTask__002.mp4",
+      "bytes": 1042309,
+      "sha256": "8d22a8359548556dccd39f646758fe47d9cdc234f180a09ae671c390ee5402d9",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__SauceBottlesCrateTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__SauceBottlesCrateTask__003.mp4",
+      "bytes": 1472143,
+      "sha256": "834fbb95d179f8a6bb1c22dafca065e37f4873ff710800877dfb5909785cd9ff",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__SauceBottlesCrateTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__SauceBottlesCrateTask__004.mp4",
+      "bytes": 4306539,
+      "sha256": "9f8be6beeb4e9924a25615853f94e99f9db108f0041c1998ebb82634c9928471",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__SauceBottlesCrateTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__CannedFoodInBinTask__000.mp4",
+      "bytes": 2036140,
+      "sha256": "292523a228ba6676f74d3c42e8f42827dd88e1099285b0e08fe154928d48f0f7",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__CannedFoodInBinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__CannedFoodInBinTask__001.mp4",
+      "bytes": 2068360,
+      "sha256": "895e0c6beadc97437611d82b3ab17ad06e35c358d3422e341656fee33b5e3120",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__CannedFoodInBinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__CannedFoodInBinTask__002.mp4",
+      "bytes": 2171532,
+      "sha256": "a1716fe510601388ef37bf987e25ad7df9689eb4e1cf00ee980961c36f400c5f",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__CannedFoodInBinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__CannedFoodInBinTask__003.mp4",
+      "bytes": 2407303,
+      "sha256": "867dc7926596af4c23ea70b53d0719553587263694da0ed884755d5eb1631670",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__CannedFoodInBinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__CannedFoodInBinTask__004.mp4",
+      "bytes": 2531312,
+      "sha256": "d1e2b2c56d9ab8ce36472e815a6950181392e1593f91a9d925d89d07a5c3a205",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__CannedFoodInBinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__YogurtInBowlTask__000.mp4",
+      "bytes": 1534525,
+      "sha256": "18e1f05c1b72d21bf3af25b53c1d84e9b76ca404af2b61eb15076d9c3d7faf28",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__YogurtInBowlTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__YogurtInBowlTask__001.mp4",
+      "bytes": 1373436,
+      "sha256": "9887b492dae78d95dc7796c329a95d25b6a0f6d1579735491862ba9213b13cc6",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__YogurtInBowlTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__YogurtInBowlTask__002.mp4",
+      "bytes": 1412364,
+      "sha256": "591a5285d9545e930f7c0acdbe069c48e749c4170f24d806438c9abefb2c2dc5",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__YogurtInBowlTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__YogurtInBowlTask__003.mp4",
+      "bytes": 1399340,
+      "sha256": "0f038b9439edee5ded6b6fa266ce65b9a0b134bdab95f59eb8f70b4df84a9b68",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__YogurtInBowlTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__YogurtInBowlTask__004.mp4",
+      "bytes": 1375742,
+      "sha256": "76b74dd84a63b599c8244bfb4291d7abb7ec280824e5fd2c55956409cb63179d",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__YogurtInBowlTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__RubiksCubeTask__000.mp4",
+      "bytes": 1366784,
+      "sha256": "43d84831cf03f89b438619a5e43012ca8564eaa3cc9769f79031f80e2d30d67b",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__RubiksCubeTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__RubiksCubeTask__001.mp4",
+      "bytes": 1280463,
+      "sha256": "1c30f5959b693d91bd399e46e3e9fa952f93f0884600cf1f31573b2f80e64032",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__RubiksCubeTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__RubiksCubeTask__002.mp4",
+      "bytes": 1342463,
+      "sha256": "73bc6ea84d504d36ad6b0404eae84d91cb6fbbb173630ac7b74dce1f6a9c2ba4",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__RubiksCubeTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__RubiksCubeTask__003.mp4",
+      "bytes": 1280605,
+      "sha256": "5963b4cd4fc704d110472e72c670c0e6cf47b4757fa3f613f71a10dde43e05d5",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__RubiksCubeTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__astra_pi05__RubiksCubeTask__004.mp4",
+      "bytes": 1264226,
+      "sha256": "c8eca406be23bb59244329ebc201729b1e0ce33167dcd4c3987db67c002a185f",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__astra_pi05__RubiksCubeTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlocksInBinTask__000.mp4",
+      "bytes": 10032885,
+      "sha256": "cbe86257f2713fd523594c9ce8877e2425e0db4e43a089726c409510865f1eb4",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__BlocksInBinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlocksInBinTask__001.mp4",
+      "bytes": 9440015,
+      "sha256": "110fd6155d6ef97a1fcaa98c3472de5cbbbf30516b299a4bf7f74de0291b5e2b",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__BlocksInBinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlocksInBinTask__002.mp4",
+      "bytes": 10551655,
+      "sha256": "de86953ac0fbc786a0c9b3638535161c46dbd6e2b9bad9904fb321fa5581db01",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__BlocksInBinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlocksInBinTask__003.mp4",
+      "bytes": 10240226,
+      "sha256": "c53a65cf494b4e5beac8259738b6b5fdc396d9a12263315daa9a0780af6c795d",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__BlocksInBinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlocksInBinTask__004.mp4",
+      "bytes": 10340301,
+      "sha256": "cfda9221d2aecb32c5f6eb3c8e5b01e29a7824bf70a48839268572c6d2d3f38d",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__BlocksInBinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ClutterPumpkinTask__000.mp4",
+      "bytes": 5082083,
+      "sha256": "65b4d6f4547fe24a7d6d6b429951c54ad96fdd01db50fcbb1559052a404e144f",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ClutterPumpkinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ClutterPumpkinTask__001.mp4",
+      "bytes": 5309809,
+      "sha256": "0ffe8bfe16d05671692a1d58c769d94c16775f3e5531b71ac1e0167d415d8d9a",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ClutterPumpkinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ClutterPumpkinTask__002.mp4",
+      "bytes": 5690707,
+      "sha256": "7470453603d6900aea6ac6ab19101fbe32de4f9db52b3ebcc488ccd0db98de95",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ClutterPumpkinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ClutterPumpkinTask__003.mp4",
+      "bytes": 5592361,
+      "sha256": "12a5bdcb719baabf8e4ff89ec69f7969124b74a49c1e32bcf09af27ffd4fbb81",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ClutterPumpkinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ClutterPumpkinTask__004.mp4",
+      "bytes": 5041915,
+      "sha256": "891d0244d196a17ea813fbf60a962b5eb3bd2db29aed43e93db5675b1297ab17",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ClutterPumpkinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ButterAboveRaisinTask__000.mp4",
+      "bytes": 1880757,
+      "sha256": "1402b7026e307eb4bccf2f18d3dc2fefd5a31c2e5c98c62525dc0ac80334dbe6",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ButterAboveRaisinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ButterAboveRaisinTask__001.mp4",
+      "bytes": 1362120,
+      "sha256": "ceddea54b8d6e1a85cb1940be8584a9ccf630d726b36e7e23c2614e9e37bbaa4",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ButterAboveRaisinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ButterAboveRaisinTask__002.mp4",
+      "bytes": 1348361,
+      "sha256": "bafa713661b33aa800302b8eaabccc7331eabc29eae1059aac19084d6e6f69cf",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ButterAboveRaisinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ButterAboveRaisinTask__003.mp4",
+      "bytes": 1359643,
+      "sha256": "c9ca13bd3311b3dd378a8c548735021dd180df4c86692149809c2e7df9a299fa",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ButterAboveRaisinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ButterAboveRaisinTask__004.mp4",
+      "bytes": 1311432,
+      "sha256": "9f0d37ed02a707b150bd70f5db514c4852d1a62b9db5153dec28d2cc3f54d17f",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ButterAboveRaisinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlockStackingSpecifiedOrderTask__000.mp4",
+      "bytes": 6936561,
+      "sha256": "992d4cacd1ae9be97c75577196db5d9290d0b8c8849b241c51985087e4d997cc",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__BlockStackingSpecifiedOrderTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlockStackingSpecifiedOrderTask__001.mp4",
+      "bytes": 4908239,
+      "sha256": "61530d77e6aff9066c4d42000332129064f146f35179c75cfa4af8bc5943db9a",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__BlockStackingSpecifiedOrderTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlockStackingSpecifiedOrderTask__002.mp4",
+      "bytes": 4787076,
+      "sha256": "cc50bac11878f1885f1b2f6f6653804116c5e2f2625f19413a7a3671cf691967",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__BlockStackingSpecifiedOrderTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlockStackingSpecifiedOrderTask__003.mp4",
+      "bytes": 7933409,
+      "sha256": "d4844b072e9950f9850ad9b035542c6ad52348ee82354c21e4718089c69b605b",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__BlockStackingSpecifiedOrderTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__BlockStackingSpecifiedOrderTask__004.mp4",
+      "bytes": 5938973,
+      "sha256": "933531401a774b8fb7ce30431818769165c6d61bd4be1caffb2f97645b55c1b0",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__BlockStackingSpecifiedOrderTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ReorientRedMugTask__000.mp4",
+      "bytes": 3443071,
+      "sha256": "034e66a6bcdde1c7245c74c5eeb0c0b13fa67c6f6b443f1b64d655edf65b298b",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ReorientRedMugTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ReorientRedMugTask__001.mp4",
+      "bytes": 3362002,
+      "sha256": "387800441383e7cd74abade2dad92ed203f61dbee33abacc5b3fe5436a6a6372",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ReorientRedMugTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ReorientRedMugTask__002.mp4",
+      "bytes": 1279695,
+      "sha256": "d492d4403fad549c2251870f95d2ce9cfad163b0066f7d5470ee40f7e25d7f71",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ReorientRedMugTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ReorientRedMugTask__003.mp4",
+      "bytes": 981772,
+      "sha256": "0a8ea788768d015622872be7c34f0a3c7f7d18399a6c804608fbbc10ddb72e9f",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ReorientRedMugTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__ReorientRedMugTask__004.mp4",
+      "bytes": 1291822,
+      "sha256": "4308bbb65b27d314b814695e653c1fa71a8bfc33422d051d4503fc26034eb180",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__ReorientRedMugTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__000.mp4",
+      "bytes": 1983384,
+      "sha256": "0604496ce38c7c6a14e75c6184cc1e348b596a65d8b1ec957db4441c38b998b7",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__001.mp4",
+      "bytes": 2064246,
+      "sha256": "f0b17f9f16d6274b65dcc06833e2789955d96067f7ee1931c5d8c7f90fa0ec47",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__002.mp4",
+      "bytes": 2431178,
+      "sha256": "b77fa667063093ce3102e01ffc28bb3522445d607083d6c868ad406a5743bc93",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__003.mp4",
+      "bytes": 2233921,
+      "sha256": "a0175d74e6ba2e0e8df220e31ca97cc56a902a5ee00fdd3a6270790708163080",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__004.mp4",
+      "bytes": 4075046,
+      "sha256": "e4ce3e48bb45fc3b1c235b2a81f258884fb2a218a285f627c7d3bba1c09d4992",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__LargerObjectRaisinBoxInBinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__SauceBottlesCrateTask__000.mp4",
+      "bytes": 1318267,
+      "sha256": "710a03d9e3e460dd5bfdd39ee862eb80941e34fcaeb32a63edc562a77cd1a2af",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__SauceBottlesCrateTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__SauceBottlesCrateTask__001.mp4",
+      "bytes": 5229587,
+      "sha256": "5c6e24507aaa4c7592d36f3588a089f9a3d8c739599c73c37ee1dd3cb03435c4",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__SauceBottlesCrateTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__SauceBottlesCrateTask__002.mp4",
+      "bytes": 1326883,
+      "sha256": "e7574f7aa55072e236791b4169d440256382acd50252f9bd3e9cab04dd1bfe1c",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__SauceBottlesCrateTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__SauceBottlesCrateTask__003.mp4",
+      "bytes": 1436781,
+      "sha256": "28c5623ded917eb717ab313d9aff93d3c2f3890771185ed527cb914c77b2beed",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__SauceBottlesCrateTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__SauceBottlesCrateTask__004.mp4",
+      "bytes": 1677772,
+      "sha256": "bf18edefadd25862a394f15b2158138a5e52a69486762c4ab915b56f46147c31",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__SauceBottlesCrateTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__CannedFoodInBinTask__000.mp4",
+      "bytes": 1607983,
+      "sha256": "60fc136e5e406dc136ad7310e6134ddcc8f80914c166733dd8dd1206a638471a",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__CannedFoodInBinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__CannedFoodInBinTask__001.mp4",
+      "bytes": 1367204,
+      "sha256": "8c6129884c7ab4f62b45d573d524a991e1089af2186f8b5f5b5b8fe138a7f405",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__CannedFoodInBinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__CannedFoodInBinTask__002.mp4",
+      "bytes": 1371081,
+      "sha256": "9d7d70c2d781347a6acf33e0c78b368d9d52ae6443bf7b3b00bab97c28244542",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__CannedFoodInBinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__CannedFoodInBinTask__003.mp4",
+      "bytes": 1392893,
+      "sha256": "a10e6c62e2127bed0b719c408738d0115bdae7602b946b682cba9a45cac9d70a",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__CannedFoodInBinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__CannedFoodInBinTask__004.mp4",
+      "bytes": 1356752,
+      "sha256": "cfdf68900ed8fcb3babe723c559dc09ed687faf9cad3621bf039a99530481da2",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__CannedFoodInBinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__YogurtInBowlTask__000.mp4",
+      "bytes": 1542681,
+      "sha256": "d503fe336246c4b9115aa2fd1d0028b7aed9fdd13cef1effcd1a395139979ced",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__YogurtInBowlTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__YogurtInBowlTask__001.mp4",
+      "bytes": 1579832,
+      "sha256": "c52daec6b55205f96f420fcc7574cb23c365935be5a62aadcedc34f1725d602b",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__YogurtInBowlTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__YogurtInBowlTask__002.mp4",
+      "bytes": 1588358,
+      "sha256": "10abe152b8e15a4f69987d0964ca477a19007b3d293c7b112b9c5bc7ba7e713d",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__YogurtInBowlTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__YogurtInBowlTask__003.mp4",
+      "bytes": 1629937,
+      "sha256": "c14db4dec1ad7cc6287fe50254b8e65daa386d65098a60de5b0dd3df066a1266",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__YogurtInBowlTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__YogurtInBowlTask__004.mp4",
+      "bytes": 1864330,
+      "sha256": "d10e02e0a52ccc26d87b8a6f6f17cc3683c2c0fd8ab1dbcd2e777df3bb74e7d0",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__YogurtInBowlTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__RubiksCubeTask__000.mp4",
+      "bytes": 1528871,
+      "sha256": "f1dac8051de6df7182b87ef172ac06dc3a056bf20166fc7de3fb31a5bff5b290",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__RubiksCubeTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__RubiksCubeTask__001.mp4",
+      "bytes": 1644952,
+      "sha256": "71c2c86d6ed9a0ed4cc4c33ca526b5d1d953f7a5507bb4212332b0cb99ace086",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__RubiksCubeTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__RubiksCubeTask__002.mp4",
+      "bytes": 1384072,
+      "sha256": "a20071d76dd7c8c785daf4598c9f2c5dd2a2afc03e525e7b9f07a18cc1ea4e7d",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__RubiksCubeTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__RubiksCubeTask__003.mp4",
+      "bytes": 1526071,
+      "sha256": "bc01bf1cb591dcd3f1d63b417523ac8c04593a5758e1e71825e6c5861dc340bf",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__RubiksCubeTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pure_astra__RubiksCubeTask__004.mp4",
+      "bytes": 1524259,
+      "sha256": "fbcaa9f60343c7383c0ef7c31d513178764f4376a28eeaaf9d0e4b1a340abfa5",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pure_astra__RubiksCubeTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlocksInBinTask__000.mp4",
+      "bytes": 10662840,
+      "sha256": "e3979b7ec372c3b8985ff7c4be0d47a715d30be8fbc45345bfd58c67d6df7544",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__BlocksInBinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlocksInBinTask__001.mp4",
+      "bytes": 11405755,
+      "sha256": "dd85613f5f991182637cb95487a4e016d1812b68c7f8ab88260d6ca6f183ec13",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__BlocksInBinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlocksInBinTask__002.mp4",
+      "bytes": 11711204,
+      "sha256": "e086d8a086ab1ad8b247195ff0b3a56f9052888df6e736d6fa82356ee1e6e3cd",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__BlocksInBinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlocksInBinTask__003.mp4",
+      "bytes": 12374536,
+      "sha256": "d99017b5edb5530c106ab918e74ce191f6c66236ab03ee5e790a19fda20637dc",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__BlocksInBinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlocksInBinTask__004.mp4",
+      "bytes": 11130885,
+      "sha256": "13902f62b46e6f85d8eba156ac8905fed1ce4a815e4ea19891822d1353afc698",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__BlocksInBinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ClutterPumpkinTask__000.mp4",
+      "bytes": 6599062,
+      "sha256": "87f530fb9315746a27b2ed817f80d2ebda79812e933a76d3c9ffad2f3373486e",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ClutterPumpkinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ClutterPumpkinTask__001.mp4",
+      "bytes": 6629376,
+      "sha256": "cb333f78f88f53733928fa48c686cc4007ec6927033069dc8c22ba9667385b2f",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ClutterPumpkinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ClutterPumpkinTask__002.mp4",
+      "bytes": 6449756,
+      "sha256": "bc0238c04630df97dd52f2ac1aadf378f9762017468d9f8fe140f1f247e4ea33",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ClutterPumpkinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ClutterPumpkinTask__003.mp4",
+      "bytes": 6753411,
+      "sha256": "bbeee9007a68ab17895ed26b6c1ca363d48f202f1a09b4150d4097d7a02418bc",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ClutterPumpkinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ClutterPumpkinTask__004.mp4",
+      "bytes": 6376364,
+      "sha256": "7e32d7daa6c13898f84ea46c8d49ef0858c0098c1f9d19cdb729ef11ab340108",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ClutterPumpkinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ButterAboveRaisinTask__000.mp4",
+      "bytes": 2907520,
+      "sha256": "4c6244c5272c0c7aa8d680693716b5c756e69cbaf3b3837a4e54afbc9b8eef18",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ButterAboveRaisinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ButterAboveRaisinTask__001.mp4",
+      "bytes": 2968434,
+      "sha256": "18326e5914e5b1259175c5408ba70b48797d23e092413e730bf04396b809a135",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ButterAboveRaisinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ButterAboveRaisinTask__002.mp4",
+      "bytes": 2941611,
+      "sha256": "a99143c7a6d0b6fec79c4ea0923df2119056ede5de8de06af0bd4440e4fc9a34",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ButterAboveRaisinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ButterAboveRaisinTask__003.mp4",
+      "bytes": 2874427,
+      "sha256": "921774b1711ed735f882cd62a78612195a8664c0b76ed5b59d7c38118aa8a425",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ButterAboveRaisinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ButterAboveRaisinTask__004.mp4",
+      "bytes": 2913018,
+      "sha256": "eab115a42af26691772e91a8fbb4245a49d0eddbacaceb04d70f6335f662fdbc",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ButterAboveRaisinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlockStackingSpecifiedOrderTask__000.mp4",
+      "bytes": 6179493,
+      "sha256": "b5d2880b0835c2139d6ac77b34dabfd9e41287812e68d154df397d99436f0c39",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__BlockStackingSpecifiedOrderTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlockStackingSpecifiedOrderTask__001.mp4",
+      "bytes": 6016598,
+      "sha256": "6b01c2c3e1dcf7c91e8028bd7febf0fa69a4fd92f482415bd2af2f0217dcf084",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__BlockStackingSpecifiedOrderTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlockStackingSpecifiedOrderTask__002.mp4",
+      "bytes": 6309338,
+      "sha256": "10af6da511ab709c81939ff1f477d0b262fce289e31abe323c2c1fb8ef2eac88",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__BlockStackingSpecifiedOrderTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlockStackingSpecifiedOrderTask__003.mp4",
+      "bytes": 6460575,
+      "sha256": "fb54ae093cb136256d25b9bc05699c155f471f602006c248c31b159727ff63d8",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__BlockStackingSpecifiedOrderTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__BlockStackingSpecifiedOrderTask__004.mp4",
+      "bytes": 6302669,
+      "sha256": "d4188b2c3ea9cc5798c91ee4f92b7377bf9e98cc0ef70f499f97801be81a2451",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__BlockStackingSpecifiedOrderTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ReorientRedMugTask__000.mp4",
+      "bytes": 1913981,
+      "sha256": "cad0ec18eab59b83e2d8f25ec4d657d29ad16df6049014ed9b94e5a4973d26e1",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ReorientRedMugTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ReorientRedMugTask__001.mp4",
+      "bytes": 4330891,
+      "sha256": "7b2024a9c1822a2ee94e5293a48cc726809cbdc7ed6ec81f38a591e3bf2922ae",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ReorientRedMugTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ReorientRedMugTask__002.mp4",
+      "bytes": 4408913,
+      "sha256": "84798c4c01ab647c00d3d72c73c2c50d7cf4944ef83b43d1ba7dd693886459be",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ReorientRedMugTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ReorientRedMugTask__003.mp4",
+      "bytes": 4096641,
+      "sha256": "e8f17044896f85874b5b405d501aeadbc5de4aa4f2c6dd96dbcf8b0f1c600240",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ReorientRedMugTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__ReorientRedMugTask__004.mp4",
+      "bytes": 3242150,
+      "sha256": "b747e212212f799f91f0989d67a30ddba992c76d856b77e31fba4f02fea83a88",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__ReorientRedMugTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__000.mp4",
+      "bytes": 2272664,
+      "sha256": "b4a6d5971ab85e4ec5bb7bbedc34aabefabd694d8da6226901252380d59ea9da",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__001.mp4",
+      "bytes": 1944071,
+      "sha256": "880dd4275c1336eb6a4903c2e724a35f8e96b81a027913439e454dd87acc811f",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__002.mp4",
+      "bytes": 686835,
+      "sha256": "7fe6d3ba74b9e7c3aae0c2029ef933ea179850c07584d134fb1986f391033153",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__003.mp4",
+      "bytes": 2266552,
+      "sha256": "8e2cf84146a3fd63464e079faaecf5ad1b748658a903a3d5c49f1a973ab41314",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__004.mp4",
+      "bytes": 727527,
+      "sha256": "56eea73dccfdc4fb0f6497d02f9319491ed65eaa6a2adc1c7050e3583e9e35ee",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__LargerObjectRaisinBoxInBinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__SauceBottlesCrateTask__000.mp4",
+      "bytes": 2979170,
+      "sha256": "8f0ac86bbb977627637c9ced8e591df98d9bb94c4cec9d3200a4eeb344351417",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__SauceBottlesCrateTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__SauceBottlesCrateTask__001.mp4",
+      "bytes": 1440978,
+      "sha256": "ea7376873f270789ffc873866c4fe57b05758050defcd0c43783cc2e351b9f41",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__SauceBottlesCrateTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__SauceBottlesCrateTask__002.mp4",
+      "bytes": 2794583,
+      "sha256": "a81688e2115220ea325895ba10bdbdd45bbdd42f03719deeb833b65818aeb907",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__SauceBottlesCrateTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__SauceBottlesCrateTask__003.mp4",
+      "bytes": 1396453,
+      "sha256": "90f55e525977b068be7cffce765150766b72b89506c1e3e4041299e2dfab8a86",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__SauceBottlesCrateTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__SauceBottlesCrateTask__004.mp4",
+      "bytes": 3192327,
+      "sha256": "16f08a0d8601fbc48e5b4268151f6fe29f666e62a109c051e4b7d918cf56a02c",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__SauceBottlesCrateTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__CannedFoodInBinTask__000.mp4",
+      "bytes": 1544064,
+      "sha256": "02c590a6a7e6e1894eaf887ff4324bee9d9ff67f31586b3314b5983b520367de",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__CannedFoodInBinTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__CannedFoodInBinTask__001.mp4",
+      "bytes": 1964962,
+      "sha256": "e609c2f9970bf5c112c863c3dbbd021e5febb32345c9869659bddd167da7b01c",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__CannedFoodInBinTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__CannedFoodInBinTask__002.mp4",
+      "bytes": 1059809,
+      "sha256": "43c9f8a75839bc4faab9c97bb50d9f96f64ae82fec23de968836912066527284",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__CannedFoodInBinTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__CannedFoodInBinTask__003.mp4",
+      "bytes": 2455570,
+      "sha256": "1dd683f3ea6f1e20d22fc298d56a0a5adb648b0be5bab887f09b2b52e856902b",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__CannedFoodInBinTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__CannedFoodInBinTask__004.mp4",
+      "bytes": 4134929,
+      "sha256": "45200c6f3ca3b1dceedc899d3a907f50b29fa38982ec7ef221444cfede1b5439",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__CannedFoodInBinTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__YogurtInBowlTask__000.mp4",
+      "bytes": 560596,
+      "sha256": "b51d475f2d8a0d76589bc303a5baf004fb932b644b706dc36c4e6299f6c92a8e",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__YogurtInBowlTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__YogurtInBowlTask__001.mp4",
+      "bytes": 2782988,
+      "sha256": "1e2438ec424453c37d0fc08b88e5a7b0d436163c42671bc3631eea0505d4fff8",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__YogurtInBowlTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__YogurtInBowlTask__002.mp4",
+      "bytes": 2458694,
+      "sha256": "b7fd4e4c008d70ab49818c59c60b401fe2ee00e911e9928b052144140d05e452",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__YogurtInBowlTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__YogurtInBowlTask__003.mp4",
+      "bytes": 3005379,
+      "sha256": "b0342b8a07bdfbf13cfe3e501329486062644945dab2ab465c55247575bac56c",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__YogurtInBowlTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__YogurtInBowlTask__004.mp4",
+      "bytes": 642270,
+      "sha256": "55fe2b1efe8560ff74b66077826ccfea6c8dedb9c524de014855c249a54183b2",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__YogurtInBowlTask__004.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__RubiksCubeTask__000.mp4",
+      "bytes": 630227,
+      "sha256": "d49362ca1997da504b1b64540cdb53cd11c27de864f5d1a31f1369846899fa9c",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__RubiksCubeTask__000.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__RubiksCubeTask__001.mp4",
+      "bytes": 928526,
+      "sha256": "82556e508a56fe8e39f99d27b6d604c076242d199dd80d6a6c2bb9b4989ecfca",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__RubiksCubeTask__001.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__RubiksCubeTask__002.mp4",
+      "bytes": 713869,
+      "sha256": "6d181692a77fe2133a01ee3e57a4d3b0711ef364b07571806599bd1412c0d476",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__RubiksCubeTask__002.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__RubiksCubeTask__003.mp4",
+      "bytes": 1492509,
+      "sha256": "6b5bdcfbb42e61291c7f0e75de3d45151ba25fca8654124b8ff59a02672e5829",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__RubiksCubeTask__003.mp4"
+    },
+    {
+      "path": "media/robolab/robolab__pi05_only__RubiksCubeTask__004.mp4",
+      "bytes": 712975,
+      "sha256": "4ed502e8c0ee1743b566c0c0b44c70ef13599bb8e61eedaff8583151b19cccbd",
+      "url": "https://github.com/anonymous-report-421/public-website/releases/download/robolab-gallery-20260914/robolab__pi05_only__RubiksCubeTask__004.mp4"
+    }
+  ],
+  "video_hosting": "github-release"
+}
